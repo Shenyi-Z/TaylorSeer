@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Shenyi-Z&project=TaylorSeer&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <div align=center>
   
 # [ICCV 2025] *TaylorSeer*: From Reusing to Forecasting: Accelerating Diffusion Models with *TaylorSeers*
