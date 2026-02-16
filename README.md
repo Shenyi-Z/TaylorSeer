@@ -11,6 +11,8 @@
 
 ## 🔥 News
 
+* `2025/12/06` TaylorSeer is now natively supported in Diffusers. Check out the [doc](https://huggingface.co/docs/diffusers/main/en/optimization/cache#taylorseer-cache). Thanks to @toilaluan for [contributing](https://github.com/huggingface/diffusers/pull/12648) it.
+
 * `2025/06/26` 💥💥 TaylorSeer is honored to be accepted by ICCV 2025!
 
 * `2025/05/03` 🚀🚀 TaylorSeer for HiDream is released.
